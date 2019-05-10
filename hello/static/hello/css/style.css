@@ -1,0 +1,13 @@
+body {
+    color:gray;
+    font-size:26pt;
+}
+h1 {
+    color:red;
+}
+p {
+    margin:10px;
+}
+a {
+    color:blue;
+}
